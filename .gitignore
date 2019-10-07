@@ -1,0 +1,14 @@
+#Ignoring all the cache files....
+.cache/*
+.ipython/*
+.jupyter/*
+.keras/*
+.local/*
+
+#Adding the same ifnores to all the sub directories as well
+*/.cache/*
+*/.ipython/
+*/.jupyter/
+*/.keras/
+*/.local/
+
