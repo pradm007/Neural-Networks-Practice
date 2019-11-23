@@ -12,3 +12,5 @@
 */.keras/
 */.local/
 
+#Ignoring Books
+Books/
