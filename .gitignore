@@ -12,5 +12,13 @@
 */.keras/
 */.local/
 
+Practice/.keras/*
+Practice/.cache/*
+
 #Ignoring Books
+#../Books/
+#../Books/*
+**/Books/*
 Books/
+.Rproj.user
+Practice/SWAT/SWaTAnalysis/.RData
