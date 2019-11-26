@@ -1,5 +1,5 @@
 {
-    "python.dataScience.jupyterServerURI": "http://127.0.0.1:8888/?token=016be0d892096fcec0494e481f6b7809f5f4cc8f8f8769aa",
+    "python.dataScience.jupyterServerURI": "http://127.0.0.1:8888/?token=5da369b98c53d2086bdc1cd9cf6f636f878e116ebd2b0936",
     "files.exclude": {
         "**/.classpath": true,
         "**/.project": true,
